@@ -9,6 +9,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jnghne&theme=nord_bright)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer)
 
 
 

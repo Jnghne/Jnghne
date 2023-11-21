@@ -23,7 +23,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jnghne&theme=swift)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-day)](https://github.com/Jnghne/github-readme-activity-graph)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 

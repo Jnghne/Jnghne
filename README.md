@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jonghne's%20github&fontSize=50&fontAlignY=36)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnghne)](https://github.com/Jnghne/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jnghne&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jnghne&theme=swift)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub%2FJnghne%2Fhit-counter&count_bg=%23171313&title_bg=%233B2E2E&icon=&icon_color=%23EDA54A&title=Github&edge_flat=false)](https://github.com/Jnghne)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjonghne.tistory.com%2Fhit-counter&count_bg=%238EDCE7&title_bg=%239DCED5&icon=&icon_color=%23EDA54A&title=Blog&edge_flat=false)](https://jonghne.tistory.com)
@@ -23,7 +23,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jnghne&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jnghne&theme=swift)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
 

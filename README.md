@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jnghne)](https://github.com/Jnghne/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jnghne&theme=github)](https://github.com/Jnghne/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jnghne&theme=nord_bright)
 
 
 
